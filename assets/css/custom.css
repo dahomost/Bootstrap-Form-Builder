@@ -2,6 +2,7 @@ body {
   padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
   padding-bottom: 10px;
   position: relative;
+  margin: 0px;
 }
 
 @media (max-width: 979px) {
